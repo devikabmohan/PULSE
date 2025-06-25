@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+@theme{
+    --color-offBlue: #9fb4bf;
+}
+.bg-line{
+    content: "";
+    background: #f0f5ed;
+    height: 20vw;
+    width: 100vw;
+    z-index: -1;
+}
+.w-half{
+    width: 50vw;
+}
